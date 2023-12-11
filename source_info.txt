@@ -1,0 +1,14 @@
+#URLS
+#FlightAware
+# Logo https://flightaware.com/images/airline_logos/90p/{self.code}.png
+
+#Radarbox
+#FULL Logo and name https://cdn.radarbox.com/airlines/DAL.png
+#SQUARE https://cdn.radarbox.com/airlines/sq/DAL.png
+
+#FlightRadar24
+#FULL https://images.flightradar24.com/assets/airlines/logotypes/DL_DAL.png
+#FULL AWS Link https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/DL_DAL.png
+
+#Avcodes UK banners
+#https://www.avcodes.co.uk/images/logos/{self.icao_code}.png
