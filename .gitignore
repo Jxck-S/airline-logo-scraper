@@ -1,0 +1,22 @@
+# Scraped assets
+avcodes_banners/
+flightaware_logos/
+fr24_logos/
+fr24_banners/
+radarbox_banners/
+radarbox_logos/
+
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+Pipfile.lock
+.venv/
+venv/
+env/
+.env
+
+# Workspace
+.DS_Store
+.idea/
+.vscode/
