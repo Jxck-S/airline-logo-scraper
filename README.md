@@ -2,6 +2,10 @@
 
 A robust Python tool to scrape and organize airline logos and banners from multiple aviation data sources.
 
+### Example Output
+- **Image Repository**: [Jxck-S/airline-logos](https://github.com/Jxck-S/airline-logos)
+- **Live Gallery**: [View Logos & Banners](https://jxck-s.github.io/airline-logos/)
+
 ## Features
 
 - **Multi-Source Scraping**: Downloads logos and banners from:
